@@ -1,3 +1,3 @@
-inteface Command {
+interface Command {
 	
 }
